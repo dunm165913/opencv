@@ -1,6 +1,0 @@
-﻿  Source.cpp
-c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\test\source.cpp(29): error C2086: 'int imgSize': redefinition
-  c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\test\source.cpp(22): note: see declaration of 'imgSize'
-c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\test\source.cpp(56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\test\source.cpp(40): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'

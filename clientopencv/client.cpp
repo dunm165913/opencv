@@ -25,8 +25,6 @@ bool running = true;
 char key;
 
 
-
-
 Mat cameraFeed;
 SOCKET server, client;
 int height, width, IM_HEIGHT, IM_WIDTH, imgSize;
@@ -49,11 +47,9 @@ int main() {
 	cout << "CONECT TO SERVER:" << endl;
 
 
-
-
 	while (true) {
 
-	
+
 
 		Mat frame, image;
 
