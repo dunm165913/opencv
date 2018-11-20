@@ -1,0 +1,6 @@
+﻿  server.cpp
+c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\serveropencv\server.cpp(64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\serveropencv\server.cpp(89): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\serveropencv\server.cpp(50): warning C4101: 'buf': unreferenced local variable
+  serveropencv.vcxproj -> c:\users\du.nm165913\documents\visual studio 2015\Projects\serveropencv\x64\Debug\serveropencv.exe
+  serveropencv.vcxproj -> c:\users\du.nm165913\documents\visual studio 2015\Projects\serveropencv\x64\Debug\serveropencv.pdb (Partial PDB)

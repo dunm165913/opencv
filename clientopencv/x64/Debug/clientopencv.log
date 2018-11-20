@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\du.nm165913\documents\visual studio 2015\projects\serveropencv\clientopencv\client.cpp(69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  clientopencv.vcxproj -> c:\users\du.nm165913\documents\visual studio 2015\Projects\serveropencv\x64\Debug\clientopencv.exe
+  clientopencv.vcxproj -> c:\users\du.nm165913\documents\visual studio 2015\Projects\serveropencv\x64\Debug\clientopencv.pdb (Partial PDB)
